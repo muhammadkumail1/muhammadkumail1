@@ -49,9 +49,9 @@
 <td width="50%" valign="top">
 
 ### 🛡️ [SpamShield](https://github.com/muhammadkumail1/SpamShield)
-An email spam detector with a **live 9-stage analysis pipeline** streamed over Server-Sent Events, giving an ensemble verdict (Naive Bayes, LogReg, SVM). Ships with rate limiting, Helmet hardening and unit tests.
+An email spam detector with a **live 9-stage analysis pipeline** streamed over Server-Sent Events. Built in **both Node/Express and [Python/FastAPI](https://github.com/muhammadkumail1/AI_Project)**, with rate limiting, security headers and tests.
 
-`React` `Express 5` `SSE` `Recharts` `node:test`
+`React` `Express 5` `FastAPI` `SSE` `pytest`
 
 </td>
 <td width="50%" valign="top">
